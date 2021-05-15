@@ -4,7 +4,7 @@
 # Autor: Diego
 # Versão: 0.1
 # Discord: vida#6443
-# GitHub: 
+# GitHub: https://github.com/vida00
 #<--------------------------------------->
 # Funcionalidade:
 # 	Gerenciamento de consultas e controle de usuários
