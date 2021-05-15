@@ -1,2 +1,2 @@
 # Zapler
-Gerenciador de Usuários em Bash Script
+Gerenciador de Usuários em Shell Script
